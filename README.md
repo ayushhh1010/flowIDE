@@ -1,9 +1,9 @@
-# Polaris - Build a Cursor AI Alternative
+# flowIDE - Build a Cursor AI Alternative
 
 
 ## What We're Building
 
-Polaris is a browser-based IDE inspired by Cursor AI, featuring:
+flowIDE is a browser-based IDE inspired by Cursor AI, featuring:
 
 - Real-time collaborative code editing
 - AI-powered code suggestions and quick edit (Cmd+K)
